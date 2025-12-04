@@ -9,10 +9,7 @@ My technical skill set is robust. I am proficient in data handling, visualizatio
 
 
 
-I am known for my strong analytical thinking and attention to detail. I have applied these skills to turn data into actionable insights through projects such as the analysis of fitness data to guide core marketing strategy and the analysis of Google stock prices to examine investment signals. I am currently seeking to apply my expertise in a results-driven environment.--
-**Priyam79/Priyam79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am known for my strong analytical thinking and attention to detail. I have applied these skills to turn data into actionable insights through projects such as the analysis of fitness data to guide core marketing strategy and the analysis of Google stock prices to examine investment signals. I am currently seeking to apply my expertise in a results-driven environment.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
