@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!I am a highly proficient Data Analyst who built a strong academic foundation in Physics and Mathematics before securing certified training through the Microsoft Power BI Data Analytics Certificate and the Google Data Analytics Professional Certificate.
+I am a highly proficient Data Analyst who built a strong academic foundation in Physics and Mathematics before securing certified training through the Microsoft Power BI Data Analytics Certificate and the Google Data Analytics Professional Certificate.
 
 
 My technical skill set is robust. I am proficient in data handling, visualization, and reporting using Power BI (including DAX for dynamic reporting), R (using tidyverse, ggplot2, and dplyr) , SQL (Big Query & MySQL) , Excel (Pivot Tables, Power Pivot) , and Tableau.
