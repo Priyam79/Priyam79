@@ -14,13 +14,13 @@ I am known for my strong analytical thinking and attention to detail. I have app
 - 💬 Ask me about:
   Power BI dashboards, DAX, SQL querying, R, and turning messy data into insights.
 - 📫 How to reach me:
-  [Email](mailto:priyamghosh79@gmail.com)|[LinkedIn](https://www.linkedin.com/in/priyam-ghosh-7b018a221/)
+  [Email](mailto:priyamghosh79@gmail.com) | [LinkedIn](https://www.linkedin.com/in/priyam-ghosh-7b018a221/)
 - ⚡ Fun fact:
   Physics labs got me hooked on data long before dashboards.
 
 
   ### Portfolio
-  [Google Site](https://sites.google.com/view/priyamghosh79/home)|[Kaggle](https://www.kaggle.com/pghosh79)
+  [Google Site](https://sites.google.com/view/priyamghosh79/home) | [Kaggle](https://www.kaggle.com/pghosh79)
 
 ### Languages and tool
  Power BI | MySQL | BigQuery | R | Excel | Tableau
