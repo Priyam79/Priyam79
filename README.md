@@ -27,3 +27,14 @@ I am known for my strong analytical thinking and attention to detail. I have app
 
 
 ### Certificates:
+
+<img width="2200" height="1700" alt="Coursera microsoft-1" src="https://github.com/user-attachments/assets/d640606e-a281-440b-9462-614ceb58f7c6" />
+
+
+
+<img width="2200" height="1700" alt="Coursera google-1" src="https://github.com/user-attachments/assets/7878d42e-78b2-43a7-a179-5bd0da544efd" />
+
+
+
+<img width="2339" height="1653" alt="CS50P-1" src="https://github.com/user-attachments/assets/dc5a6880-2530-40ca-9532-cecaee962379" />
+
