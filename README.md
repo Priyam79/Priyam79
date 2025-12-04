@@ -1,6 +1,15 @@
 ## Hi there 👋
 
-<!--
+<!I am a highly proficient Data Analyst who built a strong academic foundation in Physics and Mathematics before securing certified training through the Microsoft Power BI Data Analytics Certificate and the Google Data Analytics Professional Certificate.
+
+
+My technical skill set is robust. I am proficient in data handling, visualization, and reporting using Power BI (including DAX for dynamic reporting), R (using tidyverse, ggplot2, and dplyr) , SQL (Big Query & MySQL) , Excel (Pivot Tables, Power Pivot) , and Tableau.
+
+
+
+
+
+I am known for my strong analytical thinking and attention to detail. I have applied these skills to turn data into actionable insights through projects such as the analysis of fitness data to guide core marketing strategy and the analysis of Google stock prices to examine investment signals. I am currently seeking to apply my expertise in a results-driven environment.--
 **Priyam79/Priyam79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
