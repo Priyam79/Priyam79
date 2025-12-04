@@ -20,3 +20,6 @@ I am known for my strong analytical thinking and attention to detail. I have app
 
 ### Languages and tool
  Power BI | MySQL | BigQuery | R | Excel | Tableau
+
+
+### Certificates:
