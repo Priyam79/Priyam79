@@ -17,7 +17,6 @@ I am known for my strong analytical thinking and attention to detail. I have app
   [Email](mailto:priyamghosh79@gmail.com)|[LinkedIn](https://www.linkedin.com/in/priyam-ghosh-7b018a221/)
 - ⚡ Fun fact:
   Physics labs got me hooked on data long before dashboards.
--->
 
 ### Languages and tool
  Power BI | MySQL | BigQuery | R | Excel | Tableau
