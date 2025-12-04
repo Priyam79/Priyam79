@@ -18,8 +18,12 @@ I am known for my strong analytical thinking and attention to detail. I have app
 - ⚡ Fun fact:
   Physics labs got me hooked on data long before dashboards.
 
+
+  ### Portfolio
+  [Google Site](https://sites.google.com/view/priyamghosh79/home)|[Kaggle](https://www.kaggle.com/pghosh79)
+
 ### Languages and tool
  Power BI | MySQL | BigQuery | R | Excel | Tableau
 
 
-### Certificates:f
+### Certificates:
