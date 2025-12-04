@@ -20,4 +20,4 @@ I am known for my strong analytical thinking and attention to detail. I have app
 -->
 
 ### Languages and tool
-* Power Bi* MySQL * BigQuery * R * Excel * Tableau
+ Power Bi | MySQL | BigQuery | R | Excel | Tableau
